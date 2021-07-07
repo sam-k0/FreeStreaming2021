@@ -1,0 +1,27 @@
+Film-Datenbank
+Eintraege: 5
+*****
+Titel: Star Wars
+Laenge: 125
+Bewertungen: 2 2 2 
+Genre: Science-Fiction
+*****
+Titel: Die Verurteilten
+Laenge: 142
+Bewertungen: 5 5 
+Genre: Drama
+*****
+Titel: Der Pate
+Laenge: 178
+Bewertungen: 2 3 
+Genre: Krimi
+*****
+Titel: The Dark Knight
+Laenge: 152
+Bewertungen: 1 
+Genre: Action
+*****
+Titel: Schindlers Liste
+Laenge: 197
+Bewertungen: 4 4 4 
+Genre: Drama
